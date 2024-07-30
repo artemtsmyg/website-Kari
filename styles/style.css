@@ -1,0 +1,8 @@
+body {
+  background: linear-gradient(rgb(221, 209, 221), rgb(219, 21, 153)) no-repeat;
+}
+
+.header {
+  max-width: 1000px;
+  margin: 0 auto;
+}
